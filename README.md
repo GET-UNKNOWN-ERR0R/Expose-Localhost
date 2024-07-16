@@ -17,17 +17,17 @@ This Bash script allows you to expose a local or remote web server to the intern
   
     ```
     ```sh
-    cd Expose-Localhost.sh
+    cd Expose-Localhost
     ```
 
 2. Make the script executable:
     ```sh
-    chmod +x Expose-Localhost.sh
+    chmod +x xpose.sh
     ```
 
 3. Run the script:
     ```sh
-    ./Expose-Localhost.sh
+    ./xpose.sh
     ```
     
 ## Notes
