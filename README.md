@@ -4,10 +4,6 @@ This repository contains a simple program that will expose your localhost server
 
 ![Screenshot of the Project](expose_img.jpeg)
 
-## Project Structure
-
-
-
 # Expose Local or Remote Server by tunneling
 
 This Bash script allows you to expose a local or remote web server to the internet. The script prompts you to input a URL and then sets up a tunnel to make the server accessible publicly.
